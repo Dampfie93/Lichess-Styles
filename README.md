@@ -8,7 +8,7 @@ Use [Stylus for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbk
 ### Lichess Clean Layout
 lichess-layout-clean.css
 Removing different features for a clean look
-![](https://ibb.co/C00grMP)
+![](https://i.ibb.co/s33nB6W/Bild-2021-02-05-174523.png)
 
 
 ### Lichess Clean Menu
@@ -19,9 +19,9 @@ Removing different links from menu
 ### Lichess Clean Layout
 lichess-layout-rebuild.css
 Rebuilding the Layout for better streaming
-![](https://ibb.co/0Q5DmVY)
+![](https://i.ibb.co/st7mbJs/Bild-2021-02-05-174912.png)
 
 
 ### Lichess with Chesscom Pieces
 lichess-with-chesscom-pieces.css
-![](https://ibb.co/0X1S4FB)
+![](https://i.ibb.co/n04vdn3/Bild-2021-02-05-175136.png)

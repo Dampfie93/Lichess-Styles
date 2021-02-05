@@ -1,0 +1,33 @@
+.lobby__app__content {
+    background: none;
+}
+
+.lobby__streams,
+.lobby__table,
+/*.lobby__side,*/
+.lobby__spotlights,
+.lobby__tv,
+.lobby__about,
+.lobby__box.lobby__tournaments,
+.lobby__box.lobby__blog,
+.lobby__support,
+.lobby__start,
+.lobby__box.lobby__forum,
+.lobby__box.lobby__winners,
+.lobby__box.lobby__leaderboard,
+.lobby__puzzle,
+.areplay.puzzle__moves,
+.puzzle__side__metas,
+.puzzle__side__theme,
+.puzzle__side__theme,
+.lobby__box.lobby__simuls,
+.puzzle__themes,
+.puzzle__side__config__difficulty label,
+.lobby__counters .mchat-optional {
+    display: none;
+}
+@media (min-width: 800px) {
+    .lobby {
+        grid-template-areas: 'side   app  app';
+    }
+}

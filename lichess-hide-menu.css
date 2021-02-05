@@ -1,0 +1,3 @@
+#topnav a[href="/"], #topnav a[href="/practice"], #topnav a[href="/player"] {
+    display: none;
+}

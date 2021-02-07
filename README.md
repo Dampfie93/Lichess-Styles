@@ -16,7 +16,7 @@ lichess-hide-menu.css
 Removing different links from menu
 
 
-### Lichess Clean Layout
+### Lichess Stream Layout
 lichess-layout-rebuild.css
 Rebuilding the Layout for better streaming
 ![](https://i.ibb.co/st7mbJs/Bild-2021-02-05-174912.png)

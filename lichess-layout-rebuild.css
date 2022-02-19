@@ -18,7 +18,7 @@
     .analyse{
         padding-top: 25px;
     }
-    .analyse__clock{
+/*    .analyse__clock{
         right:5px;
         font-size: 2em;
         background: none;
@@ -31,7 +31,7 @@
     }
     .analyse__clock.bottom{
         bottom: -20px;
-    }
+    }*/
 /*Game ================================= */
     .round__app .rclock-top {
         grid-area: 1 / 1 / 2 / 2;
@@ -53,14 +53,6 @@
         justify-self: flex-end;
         z-index: 1;
     }
-    .material-top{
-        padding-left: 50%;
-        font-size: 1.3em;
-    }
-    .material-bottom{
-        padding-left: 50%;
-        font-size: 1.3em;
-    }
     .rclock .tour-rank,
     .rclock .moretime,
     .rclock .berserked {
@@ -79,8 +71,22 @@
         font-size: 1.4em;
         line-height: 30px;
     }
+  .round__app .rclock-bottom {
+    transform: translateY(calc(var(--cg-height) + 30px));
+  }
+  .round__app .material-top{
+    grid-area: 1 / 1 / 2 / 2;
+    transform: translateX(calc(var(--cg-width) - 300px));
+  }
+  .round__app .material-bottom{
+    grid-area: 10 / 1 / 10 / 2;
+    transform: translateX(calc(var(--cg-width) - 300px));
+  }
     .ruser a {
         flex: none;
+    }
+    body {
+        background:none;
     }
 }
 
